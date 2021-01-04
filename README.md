@@ -1,3 +1,3 @@
 
-Minimal setup to run Typescript POCs
+Minimal template to run Typescript POCs
 
